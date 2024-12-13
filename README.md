@@ -14,15 +14,9 @@ The following libraries are included:
 
 The following PDE problems are included:
 
-- Burgers1D as described in [PINNacle benchmark](https://arxiv.org/pdf/2306.08827)
+- From [PINNacle benchmark](https://arxiv.org/pdf/2306.08827): Burgers1D, 2D Navier-Stokes lid-driven flow, Poisson Inverse.
 
-- 2D Navier-Stokes lid-driven flow as described in [PINNacle benchmark](https://arxiv.org/pdf/2306.08827)
-
-- Poisson Inverse problem as described in [PINNacle benchmark](https://arxiv.org/pdf/2306.08827)
-
-- Diffusion Reaction inverse problem as described in [deepXDE documentation](https://deepxde.readthedocs.io/en/latest/demos/pinn_inverse/reaction.inverse.html)
-
-- Navier-Stokes inverse problem as described in [deepXDE documentation](https://github.com/lululxvi/deepxde/blob/master/examples/pinn_inverse/Navier_Stokes_inverse.py)
+- From [deepXDE documentation](https://deepxde.readthedocs.io/en/latest/demos/pinn_inverse.html): Diffusion Reaction inverse, Navier-Stokes inverse problem.
 
 
 # Instructions
