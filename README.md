@@ -28,7 +28,9 @@ Then you can install the three first libraries with `pip install jinns`, `pip in
 
 The versions of the relevant packages are:
 
-- `jax==0.4.35` and `jaxlib==0.4.35`
+- `jax==0.4.36` and `jaxlib==0.4.36`
+
+- `equinox==0.11.10` and `optax==0.2.2`
 
 - `torch==2.5.1+cu121`
 
