@@ -4,3 +4,6 @@ lightning_logs
 *.tfevents.*
 __pycache__
 outputs
+*.mat
+*.npz
+tmp_pina
